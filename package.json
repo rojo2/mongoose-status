@@ -20,5 +20,9 @@
     "mongoose": "^4.5.5"
   },
   "author": "ROJO 2 <hola@rojo2.com> (http://rojo2.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rojo2/mongoose-status.git"
+  }
 }
