@@ -1,7 +1,7 @@
 {
-  "name": "mongoose-status",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@rojo2/mongoose-status",
+  "version": "1.0.1",
+  "description": "This plugin adds a property called `status` to the schema and a method called `transitionTo`",
   "main": "status.js",
   "engines": {
     "node": ">=6.3.0"
@@ -23,6 +23,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rojo2/mongoose-status.git"
-  }
+    "url": "git+https://github.com/rojo2/mongoose-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rojo2/mongoose-status/issues"
+  },
+  "homepage": "https://github.com/rojo2/mongoose-status#readme",
+  "keywords": [
+    "mongoose",
+    "status"
+  ]
 }
